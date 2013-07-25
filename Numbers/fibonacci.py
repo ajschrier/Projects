@@ -1,11 +1,13 @@
 import sys
+import time
 
-n=sys.argv[1]
+n=int(sys.argv[1])
 
 series=[0,1]
 
-# while len(series) < n:
-# 	series.append(series[-1] + series [-2])
+while len(series) < n:
+	series.append(series[-1] + series [-2])
 
-# print str(series)
-print sys.argv[1]
+for i in range (0, len(series)):
+	print series[i]
+	time.sleep(0.2)
