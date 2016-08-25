@@ -19,6 +19,11 @@ Numbers
 * Fix cost display
 * unit tests
 
+**Change Return Program** – The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
+* formatting
+* full output
+* unit tests
+
 ### Remaining
 
 **Find PI to the Nth Digit** – Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
