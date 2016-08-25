@@ -7,12 +7,6 @@ except IndexError:
     print "Defaulting to 10"
     n = 10
 
-# if input > 0:
-#     print "Defaulting to 10"
-#     n = 10
-# else:
-#     n = int(input)
-
 series = [0, 1]
 
 while len(series) < n:
