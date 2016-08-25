@@ -1,11 +1,22 @@
 Numbers
 ---------
 
+### Done
+
+**Fibonacci Sequence** – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+
+### In Progress
+
+**Tax Calculator** – Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
+* needs formatting and rounding corrections
+
+### Remaining
+
 **Find PI to the Nth Digit** – Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 To do:
 find individual solution
 
-*Fibonacci Sequence – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+
 Completed*
 
 **Prime Factorization** – Have the user enter a number and find all Prime Factors (if there are any) and display them.
@@ -35,6 +46,6 @@ fix calculation
 
 **Credit Card Validator** – Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
 
-**Tax Calculator** – Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
+
 
 **Dijkstra’s Algorithm** – Create a program that finds the shortest path through a graph using its edges.
