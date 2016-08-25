@@ -9,6 +9,11 @@ Numbers
 
 **Tax Calculator** – Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
 * needs formatting and rounding corrections
+* needs unit tests
+
+**Mortgage Calculator** – Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
+* fix calculation
+* unit tests
 
 ### Remaining
 
@@ -17,20 +22,13 @@ To do:
 find individual solution
 
 
-Completed*
-
 **Prime Factorization** – Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
 **Next Prime Number** – Have the program find prime numbers until the user chooses to stop asking for the next one.
 
-
 **Find Cost of Tile to Cover W x H Floor** – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 To do:
 Fix cost display
-
-**Mortgage Calculator** – Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
-To do:
-fix calculation
 
 **Change Return Program** – The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
@@ -45,7 +43,5 @@ fix calculation
 **Distance Between Two Cities** – Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.
 
 **Credit Card Validator** – Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
-
-
 
 **Dijkstra’s Algorithm** – Create a program that finds the shortest path through a graph using its edges.
