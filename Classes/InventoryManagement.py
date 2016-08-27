@@ -1,4 +1,4 @@
-from inventory import *
+from inventory import Product, Inventory
 
 a = Product('test', 44.99, 7)
 
