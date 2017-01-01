@@ -21,4 +21,8 @@ class Product:
 
 
 class Inventory:
-    pass
+    def __init__(self):
+        self.id = id
+        self.inventory = []
+
+    # def add
